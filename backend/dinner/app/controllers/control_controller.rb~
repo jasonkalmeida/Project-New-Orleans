@@ -1,0 +1,14 @@
+class ControlController < ApplicationController
+  def create_account
+    
+  end
+
+  def get_daily
+  end
+
+  def set_prefs
+  end
+
+  def people_interested
+  end
+end
